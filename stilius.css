@@ -1,0 +1,12 @@
+body {
+	background-color: gray;
+}
+.left {
+	background-color: blue;
+}
+.right {
+	background-color: red;
+}
+.spacing {
+	padding: 20px;
+}
