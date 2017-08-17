@@ -10,3 +10,18 @@ body {
 .spacing {
 	padding: 20px;
 }
+.langelis {
+	
+	margin: 2px;
+	padding: 43px;
+	border: 2px solid white;
+	border-radius: 1px;
+	font-size: 15px;
+	color: white;
+	float: left;
+	background-color: black;
+
+}
+.langelis2 {
+	clear: both;
+}
